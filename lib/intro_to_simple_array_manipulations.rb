@@ -10,3 +10,9 @@ def using_unshift(array, string)
   array.unshift(string)
 end 
 
+# takes in argument of an array and uses the pop method to remove the last element from the array and return that element
+
+def using_pop(array)
+  array.pop
+end
+
