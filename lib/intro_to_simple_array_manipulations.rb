@@ -54,6 +54,6 @@ end
 
 # takes in an argument of an array that contains other arrays and uses the flatten method to return an array of strings
 
-def using_flatten(array(array1, array2))
+def using_flatten(array)
   array.flatten
 end
