@@ -34,3 +34,8 @@ def shift_with_args(array)
   array.shift(2)
 end
 
+# takes in two arguments of two different arrays and uses the concat method to add the contents of the second array to the first
+
+def using_concat(array1, array2)
+  
+end
