@@ -16,3 +16,5 @@ def using_pop(array)
   array.pop
 end
 
+#takes in an argument of an array and uses the pop method with an argument of 2 to remove the last two array items and return them
+
